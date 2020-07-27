@@ -1,3 +1,9 @@
+https://netflixclone-tata-1234a.web.app/
+
+Hosted it using firebase
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
